@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: Helvetica, Arial;
+  background: #f7f5f0;
+  color: #111;
+}
+
+.hero {
+  background: black;
+  color: white;
+  text-align: center;
+  padding: 120px 20px;
+  border-bottom: 3px solid gold;
+}
+
+.btn {
+  background: gold;
+  color: black;
+  padding: 10px 25px;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.section {
+  padding: 40px 20px;
+}
+
+.product {
+  background: white;
+  padding: 20px;
+  margin: 20px 0;
+  border-left: 4px solid gold;
+}
+
+.link {
+  color: black;
+  font-weight: bold;
+}
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #222;
+  color: #aaa;
+}
