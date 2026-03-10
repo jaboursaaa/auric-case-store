@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Silicone Gold Series – Auric Case</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<section class="section">
+  <h1>Silicone Gold Series</h1>
+  <p>Price: 50–60 €</p>
+  <p>Soft‑touch silicone with polished gold buttons.</p>
+  <a href="index.html" class="link">Back</a>
+</section>
+</body>
+</html>
